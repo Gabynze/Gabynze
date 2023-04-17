@@ -1,4 +1,4 @@
-# Hola, soy Gabriela Nunez
+# Olá, eu sou Gabriela Nunez
 
 - 👩‍💻 Atualmente estou em formação como full-stack na @toti-edu
 - 🌱 Concentrada em aprender e me atualizar com a tecnologia de programação
